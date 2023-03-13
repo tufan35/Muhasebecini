@@ -9,7 +9,7 @@ namespace Muhasebecini.UnitOfWork
 
         public UnitOfWork(DatabaseContext dbContext)
         {
-            _dbContext = dbContext;
+            _dbContext = dbContext; 
         }
 
        
